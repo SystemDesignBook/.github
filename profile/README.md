@@ -9,13 +9,25 @@
 
 ## 진행방식
 
-### 설계 실습
+1. 내용 정리
+  - 해당 주에 읽은 내용을 각자의 `각자의 언어`로 정리합니다.
+
+2. 문제 풀이
+  - 실제 문제들을 작성하고, 풀이합니다.
+    ex) 
+
+3. 설계 실습
+  - 문제에 대한 설계를 진행합니다.
+  - 서비스 분석 -> 하며 실제로 개략적인 다이어그램을 그리고 문서화합니다.
+  - 
+4. 발표
+  - 
 
 ### 발표
 
 ## 회고
-1주일 동안 책을 읽으면서 느낀점, 발표를 보고 느낀점, 토의하고 싶은 내용 등
-주제 관련하여 자유롭게 하고 싶은 말, 생각 등을 공유하면 좋을 것 같아요.
+
+주제 관련하여 자유롭게 하고 싶은 말, 생각 등을 공유해주세요.
 
 
 ## 기록
@@ -39,3 +51,16 @@
 
 
 ## References
+
+시스템디자인 인터뷰
+https://www.youtube.com/watch?v=til92X5hYAY&ab_channel=Exponent
+
+타 스터디
+https://github.com/system-design-club-night/system-design-club-night
+https://github.com/Learning-Is-Vital-In-Development/23-7-SystemDesignInterview
+https://github.com/Meet-Coder-Study/book-system-design-interview
+
+문제 샘플
+https://systemdesignfightclub.com/craigslist/
+
+
